@@ -3,7 +3,7 @@ from random import randint
 lista_npcs = []
 
 player = {
-    "nome": "Guilherme",
+    "nome": "Vinicius",
     "level": 1,
     "exp": 0,
     "exp_max": 30,
